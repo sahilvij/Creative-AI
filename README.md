@@ -11,4 +11,5 @@ Steps to generate art masterpiece are given below:
 4. Exploring the activations throughout the layers of the model by assessing the DeepDream algorithm.
 5. Calculating the loss and increasing the gradient and maximizing the activations.
 6. Saving the newly created images frames-by-frames depending upon the step-size.
-7. Uploading the newly created images and combining them to generate a video.
+7. Uploading those newly created images in a ZipFile.
+8. Extracting the newly created images and combining them to generate a video.
