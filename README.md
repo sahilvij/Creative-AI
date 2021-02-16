@@ -6,4 +6,5 @@ The objective of the project is to create art masterpiece (images and videos) by
 
 Steps to generate art masterpiece are given below:
 1. Obtaining the InceptionV3 model from keras applications.
-2. 
+2. Importing two images, namely mars.jpg and eiffel.jpg and merging them (saved as ImageBlend.jpg).
+3. 
