@@ -2,7 +2,7 @@
 
 The objective of the project is to **create art masterpiece (images and videos)** by using **DeepDream algorithm**.
 
-- Using **InceptionV3 (CNN)** as the pre-trained model (transfer learning) and Pillow (PIL) to manipulate the images, the concept of gradient ascent and activation maximization   were assessed in order to create the masterpiece by combining images.
+- Using **InceptionV3 (CNN)** as the pre-trained model (transfer learning) and Pillow (PIL) to manipulate the images, the concept of _gradient ascent_ and _activation maximization_ were assessed in order to create the masterpiece by combining images.
 
 Steps to **generate art masterpiece** are given below:
 1. Obtaining the InceptionV3 model from keras applications.
